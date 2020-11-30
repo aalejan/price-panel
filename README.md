@@ -1,1 +1,1 @@
-# price-panel
+Baisc pricing panel set-up. I used flexbox to style it.
